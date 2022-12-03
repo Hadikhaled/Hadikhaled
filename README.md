@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hadi and I'm a data analyst</h2>
-
+<p align="left">Hi, it's Hadi.<br>A data analyst</p>
 <br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="80" alt="python logo"  />
